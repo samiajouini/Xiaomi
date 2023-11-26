@@ -1,0 +1,3 @@
+TestDriver = c:\\chromedriver.exe
+webURL = https://mistore.com.tn
+Web_Maison = https://mistore.com.tn/product-category/maison-connectee
